@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "jcon2023-nbdev-demo"
+  site-url: "https://kzgrzendek.github.io/jcon2023-nbdev-demo"
+  description: "nbdev workshop for jcon2023"
+  repo-branch: main
+  repo-url: "https://github.com/kzgrzendek/jcon2023-nbdev-demo"
